@@ -13,17 +13,19 @@ Portifólio em construção...
 - 📫 Contate-me no email: pamellaferreira.si@gmail.com
 - 😄 Pronomes: ela/dela
 
-
-
+### Linguagens:
+<p>
+  <a href="https://github.com/prfs91">
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prfs91&theme=dark&line_height=40&hide=css"/> </a>
+  </a>
+</p>  
     
-## Connect with me:
+### Conexão:
 <p align="left">
-
-<a href = "https://discordapp.com/users/712375825609130024/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
-
+  <a href = "https://discordapp.com/users/712375825609130024/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
 </p>
 
-## ❤ Views and Followers
+### Visualizações:
 <a href="https://github.com/prfs91">
     <img src="https://komarev.com/ghpvc/?username=prfs91&color=blue&style=flat">
 </a>
