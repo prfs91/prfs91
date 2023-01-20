@@ -23,7 +23,7 @@ Portifólio em construção...
     
 <div>
   <a href="https://github.com/prfs91">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prfs91&theme=dark&line_height=40"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prfs91&theme=dark"/>
 </div>  
     
 ### Conexão:
