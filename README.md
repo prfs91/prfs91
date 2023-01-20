@@ -13,12 +13,18 @@ Portifólio em construção...
 - 📫 Contate-me no email: pamellaferreira.si@gmail.com
 - 😄 Pronomes: ela/dela
 
-### Linguagens:
-<p>
+### Estatísticas e linguagens:
+    
+<div>
   <a href="https://github.com/prfs91">
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prfs91&theme=dark&line_height=40"/> </a>
-  </a>
-</p>  
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prfs91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prfs91&layout=compact&langs_count=7&theme=dark"/> -->
+</div>   
+    
+<div>
+  <a href="https://github.com/prfs91">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prfs91&theme=dark&line_height=40"/>
+</div>  
     
 ### Conexão:
 <p align="left">
