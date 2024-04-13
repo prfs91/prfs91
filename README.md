@@ -3,15 +3,15 @@
 <div align='center'>
     <a href="https://github.com/prfs91">
     <img src='https://github.com/prfs91/prfs91/blob/main/programador.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%6495ED&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Roberta%2C+I'm+a+Data+Scientist.">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%6495ED&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Roberta.">
 </div>
     
 Portifólio em construção...
 
-- 🔭 Atualmente em busca de oportunidade como Cientista de Dados
-- 🌱 Estudando Python, SQL e Power BI
-- 📫 Contate-me no email: pamellaferreira.si@gmail.com
+- 🔭 Atualmente em busca de estágio em Ciência de Dados.
+- 📚 Cursando Tecnólogo em Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS), atualmente no 3º semestre.
 - 😄 Pronomes: ela/dela
+- 📫 Contate-me no email: pamellaferreira.si@gmail.com
 
 ### Estatísticas e linguagens:
     
@@ -29,6 +29,7 @@ Portifólio em construção...
 ### Conexão:
 <p align="left">
   <a href = "https://discordapp.com/users/712375825609130024/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
+  <a href = "https://www.linkedin.com/in/robertaferreira91/"><img width="100" height="34" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### Visualizações:
