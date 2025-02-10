@@ -8,8 +8,8 @@
     
 Portifólio em construção...
 
-- 🔭 Atualmente em busca de estágio em Ciência de Dados.
-- 📚 Cursando Tecnólogo em Ciência de Dados na Universidade Federal de Mato Grosso do Sul (UFMS), atualmente no 3º semestre.
+- 🔭 Atualmente em busca de estágio na área de Dados.
+- 📚 Cursando Pós-Graduação em Engenharia de Dados e Inteligência Artificial (2026) e Graduação em Engenharia da Computação (2030).
 - 😄 Pronomes: ela/dela
 - 📫 Contate-me no email: pamellaferreira.si@gmail.com
 
