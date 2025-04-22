@@ -143,4 +143,4 @@ Estou sempre aberta a contribuições com código, ideias ou revisão!
 
 ---
 
-**Última modificação em:**
+**Última modificação em:** 2025-04-22
