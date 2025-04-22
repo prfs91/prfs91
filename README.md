@@ -121,8 +121,8 @@ Estou sempre aberta a contribuições com código, ideias ou revisão!
 ### 🌐 Conexão
 
 <p align="left">
-  <a href = "https://discordapp.com/users/712375825609130024/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
-  <a href = "https://www.linkedin.com/in/robertaferreira91/"><img width="100" height="34" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/712375825609130024/" target="_blank"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
+  <a href="https://www.linkedin.com/in/robertaferreira91/" target="_blank"><img width="100" height="34" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
