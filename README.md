@@ -189,6 +189,17 @@ O sistema é construído **do zero**, com foco em:
 
 Esse projeto é meu espaço de **aprendizado prático, impacto social e superação pessoal**.
 
+<p align="center">
+  <strong>📅 Agende uma conversa sobre o Projeto VolunteerCodeCarajás</strong><br>
+  Clique no botão abaixo para escolher um horário disponível:
+</p>
+
+<p align="center">
+  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1Fm6KqLxgcozCYs_Qbe3ijTaRPIOWr6mC31tnymAHb-zKkG-O5f_TN4zrREVt1FIHyFZhCLRBD?gv=true" target="_blank">
+    <img src="https://img.shields.io/badge/Agendar%20Conversa-VolunteerCodeCarajás-orange?style=for-the-badge" alt="Agendar Conversa">
+  </a>
+</p>
+
 ---
 
 <div align="center">
