@@ -87,7 +87,7 @@ Mais do que saber Python, SQL, Airflow, Spark, Databricks, Power BI, dbt, Docker
 - 📚 Formações:
   - 🎓 Graduação em **Engenharia da Computação** (previsão de conclusão: 2030)
   - 🎓 Técnico em **Segurança do Trabalho** (previsão de conclusão: 2027)
-  - 🎓 Pós-graduação em **Engenharia de Dados e Inteligência Artificial** (previsão de conclusão: 2026)
+  - 🎓 Pós-graduação em **Engenharia de Dados e Inteligência Artificial** (concluído em: 2026)
   - 🎓 Técnico em **Administração** (concluído em: 2025)
   - 🎓 **Licenciatura em Matemática** (concluído em: 2022)
 - 👩‍🔧 Foco em **desenvolvimento de sistemas, organização de dados e acessibilidade**
@@ -242,4 +242,4 @@ Esse projeto é meu espaço de **aprendizado prático, impacto social e superaç
 
 ---
 
-**Última modificação em:** 01/05/2025
+**Última modificação em:** 23/04/2026
